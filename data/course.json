@@ -1,0 +1,48 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3ccc00a4-4a5a-8131-447b-f67c5d7e81f1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Asia in the Modern World: Images & Representations",
+  "course_description": "We will explore images that pertain to the emergence of Japan as a modern state. We will focus on images that depict Japan as it comes into contact with the rest of the world after its long and deep isolation during the feudal period.\u00a0We will also cover city planning of Tokyo that took place after WWII, and such topics as the 1964 Tokyo Olympics.\n\nA unique feature of this offering is that we will run it concurrently with the edX MOOC and two University of Tokyo MOOCs, Visualizing Postwar Tokyo and Four Faces of Contemporary Japanese Architecture, for much of the remainder of the class.\n",
+  "department_numbers": [
+    "21G",
+    "21H"
+  ],
+  "extra_course_numbers": "21H.250,CMS.874",
+  "primary_course_number": "21G.027",
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
